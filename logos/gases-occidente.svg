@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <linearGradient id="gases-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35"/>
+      <stop offset="100%" style="stop-color:#CC4400"/>
+    </linearGradient>
+  </defs>
+  <circle cx="25" cy="40" r="15" fill="url(#gases-grad)"/>
+  <circle cx="25" cy="40" r="8" fill="white"/>
+  <text x="48" y="35" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#CC4400">GASES DE</text>
+  <text x="48" y="52" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#CC4400">OCCIDENTE</text>
+</svg>
